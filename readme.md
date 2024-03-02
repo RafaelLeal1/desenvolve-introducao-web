@@ -4,4 +4,4 @@ Número de matrícula: 394
 
 ## Atividades
 
-Pesquise pelos repositórios existentes relativos a cada exercício.
+Pesquise em meu perfil pelos repositórios existentes relativos a cada exercício ( Todos possuem nome instrucional ).
